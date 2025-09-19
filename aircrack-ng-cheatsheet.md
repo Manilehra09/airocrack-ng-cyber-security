@@ -243,9 +243,3 @@ hashcat -m 22000 hashcat.22000 /path/to/wordlist
 
 ---
 
-If you'd like, I can:
-1. Also save this as a PDF (I can try to produce one),  
-2. Add a one-page printable cheat-sheet PDF, or  
-3. Create a separate script that automates setting monitor mode and starting a capture for a chosen BSSID.
-
-Tell me which of those (1, 2, or 3) you want next.
